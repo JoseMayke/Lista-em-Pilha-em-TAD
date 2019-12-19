@@ -3,5 +3,5 @@
 Um trabalho que fiz da matéria de Estruturas de Dados I do curso de Sistema de Informação da UFPI – Picos –Piauí – Brasil.
 
 É uma lista em pilha dinâmica que recebe números inteiros em linguagem C.
- Ele cria a lista em pilha para armazenar os números, insere os números na lista dado pelo usuário, busca os números, mostra o topo da pilha, remover números da lista, mostra os elementos da lista e exclui a lista liberando-a. 
+ Ele cria a lista em pilha para armazenar os números, insere os números na lista dado pelo usuário, busca os números que estão dentro da lista, remover números da lista, mostra os elementos da lista e exclui a lista liberando-a. 
 
